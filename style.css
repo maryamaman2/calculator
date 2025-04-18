@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+#calculator{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+input{
+    height: 80px;
+    width: 100px;
+}
+.inp{
+    height: 80px;
+    width: 305px;
+}
